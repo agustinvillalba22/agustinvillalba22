@@ -4,6 +4,7 @@
 <img src="https://i.imgur.com/sEObqMg.jpeg">
 
 
+
  ## 👤 About me  
 I'm a junior <strong>UX-UI designer</strong> passionate about creating digital experiences that connect with people. With a strong
 background in <strong>graphic design</strong> and a meticulous focus on details, <strong>I'm currently developing skills in HTML and CSS</strong>,
