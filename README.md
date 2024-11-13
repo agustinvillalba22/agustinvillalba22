@@ -1,7 +1,7 @@
 <div aling="center">
 <h1 align="center">Hi! I'm Agustín 👋</h1>
 </div>
-<img src="https://imgur.com/sEObqMg" href="https://imgur.com/sEObqMg">
+<img src="https://i.imgur.com/sEObqMg.jpeg">
 
 
  ## 👤 About me  
